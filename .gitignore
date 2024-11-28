@@ -1,0 +1,7 @@
+# Ignore node_modules for both frontend and backend
+/frontend/node_modules/
+/backend/node_modules/
+/dashboard/node_modules/
+/frontend/package-lock.json/
+/backend/package-lock.json/
+/dashboard/package-lock.json/
